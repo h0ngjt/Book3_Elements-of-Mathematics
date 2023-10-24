@@ -15,6 +15,9 @@ a_row = np.array([[1, 2, 3]])
 
 b = a_row.T
 
-b_col = np.array([[1],[2],[3]])
+b_col = np.array([[1], [2], [3]])
 
 a = b_col.T
+
+print(a)
+print(b)
