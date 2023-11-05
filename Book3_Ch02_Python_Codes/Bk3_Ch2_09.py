@@ -18,3 +18,7 @@ B = np.array([[4, 2],
 
 # calculate matrix multiplication
 C = A@B
+
+print(A)
+print(B)
+print(C)
